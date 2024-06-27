@@ -5,9 +5,9 @@ Repositório para implementação do Trabalho 2 da disciplina MC714.
 - Fábio de Andrade Barboza - RA 168817
 - Gabriel Queiroz Rodrigues - RA 216414
 
-1. [Relógio Lógico](/MC714-T2/Relógio%20Lógico/)
-2. [Exclusão Mútua](/MC714-T2/Exclusão%20Mútua/)
-3. [Eleição de Líder](/MC714-T2/Eleição%20de%20Líder/)
+1. [Relógio Lógico](https://github.com/Barbozafab/MC714-T2/tree/main/Relógio%20Lógico)
+2. [Exclusão Mútua](https://github.com/Barbozafab/MC714-T2/tree/main/Exclusão%20Mútua)
+3. [Eleição de Líder](https://github.com/Barbozafab/MC714-T2/tree/main/Eleição%20de%20Líder)
 
 ## Implementação
 
