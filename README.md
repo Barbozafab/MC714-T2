@@ -15,4 +15,4 @@ A implementação utiliza OpenMPI.
 
 A versão mais recente do OpenMPI pode ser baixada [aqui](https://www.open-mpi.org/software/ompi/v5.0/).
 
-Dicas sobre a instalação podem ser encontradas [aqui[(https://stackoverflow.com/questions/42703861/how-to-use-mpi-on-mac-os-x)
+Dicas sobre a instalação podem ser encontradas [aqui](https://stackoverflow.com/questions/42703861/how-to-use-mpi-on-mac-os-x)
