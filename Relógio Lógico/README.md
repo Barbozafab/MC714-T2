@@ -28,3 +28,5 @@ Certifique-se de ter MPI instalado e configurado no seu sistema. Você pode inst
 sudo apt update
 sudo apt install openmpi-bin openmpi-common libopenmpi-dev
 ```
+### Referências
+https://github.com/fire-at-will/Logical-Clock
