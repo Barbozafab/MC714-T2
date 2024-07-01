@@ -16,11 +16,11 @@ O processo restante é o processo com maior *ID* do anel, e ele é escolhido par
 
 ## Como compilar?
 
-`mpicc main.c -o main`
+`mpicc franklin_election.c -o franklin_election`
 
 ## Como rodar?
 
-`mpirun --hostfile hostfile -np [X] main`
+`mpirun --hostfile hostfile -np [X] franklin_election`
 - Onde X é um inteiro entre 1 e 10
 
 ## Referências
