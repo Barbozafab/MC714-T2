@@ -30,6 +30,8 @@ mpirun -np 4 ./ricart_agrawala
 
 Certifique-se de ter MPI instalado e configurado no seu sistema. Você pode instalá-lo utilizando os seguintes comandos (Ubuntu):
 
+### Referências
+https://github.com/majeranek2/ricart-agrawala-mpi/blob/main/ricart-agrawala.cpp
 ```bash
 sudo apt update
 sudo apt install openmpi-bin openmpi-common libopenmpi-dev
