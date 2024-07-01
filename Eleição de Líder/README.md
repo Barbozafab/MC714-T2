@@ -20,7 +20,7 @@ O processo restante é o processo com maior *ID* do anel, e ele é escolhido par
 
 ## Como rodar?
 
-`mpiexec --hostfile hostfile -np [X] main`
+`mpirun --hostfile hostfile -np [X] main`
 - Onde X é um inteiro entre 1 e 10
 
 ## Referências
